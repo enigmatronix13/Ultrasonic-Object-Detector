@@ -1,6 +1,6 @@
 # Ultrasonic Object Detection and Distance Measurement System using HC-SR04, LPC1768, and 16x2 LCD
 
-A real-time ultrasonic object detection system developed in Embedded C for the LPC1768 microcontroller using Keil μVision. It uses the HC-SR04 sensor to measure distance, displays the result on a 16x2 LCD, and activates an LED when an object is detected within a 30 cm threshold—ideal for basic proximity alert applications in embedded systems. 
+A real-time ultrasonic object detection system developed in Embedded C for the LPC1768 microcontroller using Keil μVision. It uses the HC-SR04 sensor to measure distance, displays the result on a 16x2 LCD, and activates an LED when an object is detected within a 30 cm threshold, ideal for basic proximity alert applications in embedded systems. 
 
 ---
 
